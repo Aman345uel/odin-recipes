@@ -1,1 +1,2 @@
 # odin-recipes
+"this a practice to build a recipe page with only html. contains relative links to different pages, images for recipes, orderd and unordered lists, and simple html tags i learned so far in https://www.theodinproject.com/"
